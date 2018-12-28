@@ -17,3 +17,7 @@ It keeps track of different versions of the codes. you can jump between the vers
 How do the diagrams help you visualize the branch structure?
 
 Its shows us the history of parents of the nodes of the different brachs
+
+What is the result of merging two branchs together? Why do we represent it in the diagram the way we do?
+
+You get a code that combines all the changes from both branchs. It has parents from two different branchs. 
