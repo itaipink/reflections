@@ -1,3 +1,7 @@
 what happens when you initialize a repository? why do you need to do it?
 
 git brings an empty repository but keep track of the existence of all the files. we need to start from somewhere.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It helps us to meditate on the the logical step in the commit and what files are included in this logical step
