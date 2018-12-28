@@ -1,0 +1,3 @@
+what happens when you initialize a repository? why do you need to do it?
+
+git brings an empty repository but keep track of the existence of all the files. we need to start from somewhere.
