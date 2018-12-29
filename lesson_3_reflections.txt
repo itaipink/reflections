@@ -5,3 +5,7 @@ When you need to cooperate with remote people or when you want to make your code
 Why might you want to always pull changes manually rather than having git automatically stay up-to-date with your remote repository?
 
 Since you wanna see if you are intersted in the changes
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+clones is copying the repistory from github to your computer or from one place in the computer to another. You use it when you wanna you coolaberate on projects. Forking is cloning within github. You use it when you wanna build opun a project without changing the original project. Branches are versions of the codes that have only partial overlap of parents. You will use it when you wanna build a second version of the code without overwriting the first version.  
